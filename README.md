@@ -2,11 +2,11 @@
 
 Group Members:
 
-Öykü Irmak Hatipoğlu
-Elif Gamze Güliter
-Elif Kurtay 
-Atakan Dönmez
-Cansu Moran
+Öykü Irmak Hatipoğlu   
+Elif Gamze Güliter  
+Elif Kurtay  
+Atakan Dönmez  
+Cansu Moran  
 
 Click [here](https://drive.google.com/drive/folders/1xQ9Wj0LY5du2JYC1NSBrVUxKGqVO9E_D?usp=sharing) to access the data used in the project
 
